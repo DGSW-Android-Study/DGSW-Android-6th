@@ -15,4 +15,4 @@
 - 우상범 - [주제를 적어주세요..](https://github.com/DGSW-Android-Study/DGSW-Android-6th/tree/main/2022-05-15/우상범)
 - 김민성 - [주제를 적어주세요..](https://github.com/DGSW-Android-Study/DGSW-Android-6th/tree/main/2022-05-15/김민성)
 - 김성주 - [주제를 적어주세요..](https://github.com/DGSW-Android-Study/DGSW-Android-6th/tree/main/2022-05-15/김성주)
-- 김도현 - [주제를 적어주세요..](https://github.com/DGSW-Android-Study/DGSW-Android-6th/tree/main/2022-05-15/김도현)
+- 김도현 - 코틀린(https://github.com/DGSW-Android-Study/DGSW-Android-6th/tree/main/2022-05-15/김도현)
